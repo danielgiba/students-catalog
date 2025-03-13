@@ -17,8 +17,9 @@
     -> service layer for structure logic in managing students and for ensuring data integrity
     -> repository layer for interaction with database using Spring Data JPA and Hibernate
 
-        The app have three main sections: Dashboard (displays an overview of the student database, including 
-    total students, top-performing students, and other useful metrics), Student Management (allows users to 
-    add, edit, and delete student records using an interactive form), Search & Filter (Enables users to quickly 
-    find students based on their names, IDs, or academic performance) ,and have the next features: Add New Student, 
-    Edit Student Information, Delete Students from Catalog, Search & Filter, REST API Integration, Database Management.
+        The app have three main sections: Dashboard (displays an overview of the student database, 
+    including total students, top-performing students, and other useful metrics), Student Management 
+    (allows users to add, edit, and delete student records using an interactive form), Search & Filter 
+    (Enables users to quickly find students based on their names, IDs, or academic performance), 
+    and have the next features: Add New Student, Edit Student Information, Delete Students from Catalog, 
+    Search & Filter, REST API Integration, Database Management.
