@@ -23,3 +23,11 @@
     (Enables users to quickly find students based on their names, IDs, or academic performance), 
     and have the next features: Add New Student, Edit Student Information, Delete Students from Catalog, 
     Search & Filter, REST API Integration, Database Management.
+
+    How to run:
+        1. Need to have Java 17+ and Maven installed, any database(I use MySQL),     and Postman or any REST client for testing
+        2. Clone the repo: 
+            2.1. git clone https://github.com/danielgiba/students-catalog.git
+            2.2. cd students-catalog
+        3. nvm clean install
+        4. mvn spring-boot:run
